@@ -1,0 +1,14 @@
+/home/zen/Desktop/BatoyZ/bin/Debug/net10.0/BatoyZ
+/home/zen/Desktop/BatoyZ/bin/Debug/net10.0/BatoyZ.deps.json
+/home/zen/Desktop/BatoyZ/bin/Debug/net10.0/BatoyZ.runtimeconfig.json
+/home/zen/Desktop/BatoyZ/bin/Debug/net10.0/BatoyZ.dll
+/home/zen/Desktop/BatoyZ/bin/Debug/net10.0/BatoyZ.pdb
+/home/zen/Desktop/BatoyZ/obj/Debug/net10.0/BatoyZ.GeneratedMSBuildEditorConfig.editorconfig
+/home/zen/Desktop/BatoyZ/obj/Debug/net10.0/BatoyZ.AssemblyInfoInputs.cache
+/home/zen/Desktop/BatoyZ/obj/Debug/net10.0/BatoyZ.AssemblyInfo.cs
+/home/zen/Desktop/BatoyZ/obj/Debug/net10.0/BatoyZ.csproj.CoreCompileInputs.cache
+/home/zen/Desktop/BatoyZ/obj/Debug/net10.0/BatoyZ.dll
+/home/zen/Desktop/BatoyZ/obj/Debug/net10.0/refint/BatoyZ.dll
+/home/zen/Desktop/BatoyZ/obj/Debug/net10.0/BatoyZ.pdb
+/home/zen/Desktop/BatoyZ/obj/Debug/net10.0/BatoyZ.genruntimeconfig.cache
+/home/zen/Desktop/BatoyZ/obj/Debug/net10.0/ref/BatoyZ.dll
